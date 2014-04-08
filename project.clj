@@ -11,7 +11,7 @@
                 *assert* true}
   :dependencies
   [[org.clojure/clojure         "1.4.0"]
-   [com.taoensso/encore         "1.2.1"]
+   [com.taoensso/encore         "1.3.0"]
    [com.taoensso/timbre         "3.1.6"]
    [com.taoensso/nippy          "2.6.0"]
    [org.apache.commons/commons-pool2 "2.2"]
