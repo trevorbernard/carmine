@@ -1,3 +1,9 @@
+## v2.7.0-SNAPSHOT / unreleased
+
+ * Upgraded to apache-commons-pool v2.
+ * New lock-free connection pool cache (improved performance under contention).
+
+
 ## v2.6.0 / 2014 Apr 1
 
 > Adds support for new [HyperLogLog](http://antirez.com/news/75) commands (currently requires a Redis >=2.8.9 client).
